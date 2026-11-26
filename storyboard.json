@@ -1,0 +1,94 @@
+{
+  "project_title": "ድር ቢያብር አንበሳ ያስር (When Spider Webs Unite)",
+  "proverb": "ድር ቢያብር አንበሳ ያስር",
+  "aspect_ratio": "9:16",
+  "target_fps": 24,
+  "music_style_prompt": "Warm, gentle Ethiopian acoustic instrumental featuring soft krar harp and washint flute melodies, calm reflective lo-fi rhythm, uplifting emotional build, no vocals",
+  "characters": {
+    "dawit": "22-year-old Ethiopian male university student in Addis Ababa, short curly black hair, wearing a clean navy blue knit sweater over a white collared shirt, warm expressive eyes",
+    "selam": "22-year-old Ethiopian female university student in Addis Ababa, braided black hair tied neatly back, wearing an ochre yellow cardigan and round eyeglasses, focused and kind expression"
+  },
+  "shots": [
+    {
+      "shot_id": "shot_01",
+      "duration_sec": 7,
+      "narration_amharic": "አንድ ቀጭን የሸረሪት ድር በቀላሉ በነፋስ ይበጠሳል።",
+      "subtitle_en": "A single strand of a spider's web breaks easily in the wind.",
+      "image_prompt": "Extreme macro cinematic photograph of a single delicate dew-covered spider silk strand glistening in warm morning sunlight in an Addis Ababa garden, shallow depth of field, golden bokeh, 9:16 vertical",
+      "motion_prompt": "Slow gentle push-in camera movement as morning breeze softly sways the glistening spider silk strand",
+      "music_cue": "Soft solo krar plucking, sparse and delicate"
+    },
+    {
+      "shot_id": "shot_02",
+      "duration_sec": 8,
+      "narration_amharic": "ነገር ግን ብዙ ድሮች አንድ ላይ ሲተሳሰሩ፣ የማይበጠስ ጠንካራ ገመድ ይሆናሉ።",
+      "subtitle_en": "Yet when many strands weave together, they form an unbreakable cord.",
+      "image_prompt": "Close-up cinematic shot of an intricate, symmetrical spider web woven across green leaves, golden hour sunlight illuminating the tightly connected threads, warm natural tones, 9:16 vertical",
+      "motion_prompt": "Slow upward tilt across the woven web catching warm golden sunbeams",
+      "music_cue": "Gentle washint flute enters softly over krar arpeggio"
+    },
+    {
+      "shot_id": "shot_03",
+      "duration_sec": 8,
+      "narration_amharic": "በአዲስ አበባ ቤተ መፅሃፍ ውስጥ፣ ዳዊት ከባድ የፕሮግራሚንግ ችግር ለብቻው ለመፍታት ይታገላል።",
+      "subtitle_en": "Inside a library in Addis Ababa, Dawit struggles alone to solve a difficult coding problem.",
+      "image_prompt": "Medium vertical shot of Dawit, 22-year-old Ethiopian male student in a navy blue knit sweater, sitting alone at a wooden library desk in Addis Ababa late afternoon, hand on forehead looking tired beside a laptop and open notebooks, warm window light, cinematic realism, 9:16",
+      "motion_prompt": "Subtle slow zoom-in toward Dawit looking stressed at his laptop screen",
+      "music_cue": "Low contemplative bass note, slower hesitant rhythm"
+    },
+    {
+      "shot_id": "shot_04",
+      "duration_sec": 8,
+      "narration_amharic": "በሌላ ጠረጴዛ ላይ ደግሞ ሰላም ተመሳሳይ ፈተና ገጥሟት በሃሳብ ተውጣለች።",
+      "subtitle_en": "At another table nearby, Selam faces the exact same challenge, lost in thought.",
+      "image_prompt": "Medium vertical shot of Selam, 22-year-old Ethiopian female student with braided hair, ochre yellow cardigan, and round eyeglasses, sitting at a separate wooden library table surrounded by math notes and a laptop, looking puzzled, soft warm sunlight, cinematic realism, 9:16",
+      "motion_prompt": "Gentle pan from her handwritten notes up to Selam's thoughtful expression",
+      "music_cue": "Sparse krar melody echoing the feeling of isolation"
+    },
+    {
+      "shot_id": "shot_05",
+      "duration_sec": 8,
+      "narration_amharic": "ሁለቱም ብቻቸውን ሲሞክሩ ሰዓታት አለፉ፤ መፍትሔው ግን ሩቅ መሰለ።",
+      "subtitle_en": "Hours passed as both worked alone, and the solution felt out of reach.",
+      "image_prompt": "Wide vertical interior shot of a quiet sunlit Addis Ababa study hall at dusk, Dawit at a foreground desk and Selam seated across the aisle in the background, warm amber shadows lengthening across wooden tables, cinematic film grain, 9:16",
+      "motion_prompt": "Slow horizontal drift showing the distance between the two separate desks",
+      "music_cue": "Muted percussive pulse building quiet tension"
+    },
+    {
+      "shot_id": "shot_06",
+      "duration_sec": 8,
+      "narration_amharic": "በመጨረሻም ሰላም ወደ ዳዊት ጠረጴዛ ቀርባ ሀሳቧን ማካፈል ጀመረች።",
+      "subtitle_en": "Finally, Selam walked over to Dawit's table and began sharing her ideas.",
+      "image_prompt": "Medium two-shot in a warm Addis Ababa library, Selam in her ochre yellow cardigan and round glasses leaning beside Dawit in his navy blue sweater, pointing kindly at a notebook diagram while Dawit looks up with relief, golden window light, 9:16",
+      "motion_prompt": "Smooth slow push-in as both students lean toward the shared notebook",
+      "music_cue": "Warm chord shift as krar and washint harmonize together"
+    },
+    {
+      "shot_id": "shot_07",
+      "duration_sec": 8,
+      "narration_amharic": "የዳዊት ትዕግስት እና የሰላም ጥልቅ እውቀት ሲዋሐዱ፣ የተወሳሰበው ችግር በግልጽ ታየ።",
+      "subtitle_en": "When Dawit's patience and Selam's insight combined, the complex problem became clear.",
+      "image_prompt": "Over-the-shoulder vertical close-up of Dawit in navy blue sweater and Selam in ochre yellow cardigan working side by side at one desk, writing clean logic steps on paper beside a glowing laptop screen showing passing green test checks, warm golden light, 9:16",
+      "motion_prompt": "Gentle camera tilt from the handwritten solution up to their smiling faces",
+      "music_cue": "Uplifting rhythmic groove enters with light traditional percussion"
+    },
+    {
+      "shot_id": "shot_08",
+      "duration_sec": 9,
+      "narration_amharic": "አባቶቻችን እንደተናገሩት፦ ድር ቢያብር አንበሳ ያስር። ትብብር የማይቻል የሚመስለውን ያስችላል።",
+      "subtitle_en": "As our elders say: When spider webs unite, they can tie up a lion. Collaboration makes the impossible possible.",
+      "image_prompt": "Medium vertical portrait of Dawit in navy sweater and Selam in ochre cardigan smiling warmly together outside an Addis Ababa campus courtyard at golden sunset, holding notebooks, vibrant warm light, cinematic depth of field, 9:16",
+      "motion_prompt": "Slow confident pull-back revealing the warm golden sunset behind both students",
+      "music_cue": "Full, warm emotional swell of krar and washint flute"
+    },
+    {
+      "shot_id": "shot_09",
+      "duration_sec": 8,
+      "narration_amharic": "ዛሬ እውቀትህን ለሌላው አካፍል፤ አብረን ስንቆም ከማንኛውም ፈተና በላይ ጠንካራ ነን።",
+      "subtitle_en": "Share your knowledge today; when we stand together, we are stronger than any challenge!!.",
+      "image_prompt": "Symbolic artistic vertical shot of glowing golden threads weaving together into a strong luminous pattern against a deep warm dusk sky over Addis Ababa hills, serene and inspiring, cinematic lighting, 9:16",
+      "motion_prompt": "Slow upward gaze toward the glowing woven threads in the evening sky",
+      "music_cue": "Gentle resonant krar finale fading into warm silence"
+    }
+  ]
+}
